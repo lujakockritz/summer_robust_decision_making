@@ -1,0 +1,8 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\rb1624\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "jupyter.defaultKernel": "sci2025",
+  "notebook.kernelPickerType": "mru",
+  "jupyter.kernels.excludePythonEnvironments": [
+    "C:\\Users\\rb1624\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
+  ]
+}
